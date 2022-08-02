@@ -11,7 +11,7 @@ A physics analysis usually encompasses running over hundreds of gigabytes of dat
 
 > ## Prerequisites
 >
-> FIXME
+> We expect you to have followed the largest part of the CMS Open Data Workshop for Theorists lessons. In particular, you should be familiar with Docker by now.
 {: .prereq}
 
 {% include links.md %}
